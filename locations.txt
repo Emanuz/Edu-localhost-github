@@ -34,8 +34,6 @@ Sydney, Australia
 
 Vancouver, Canada
 
-
-
 Toronto, Canada
 
 Tokyo, Japan
@@ -135,5 +133,6 @@ Reading, Pennsylvania
 Mysore, India
 
 San Antonio, Texas
+Kinshasa, DRC
 
 
