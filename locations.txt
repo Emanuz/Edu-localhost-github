@@ -41,6 +41,7 @@ Tokyo, Japan
 Copenhagen, Denmark
 
 Adelaide, Australia
+kasenyi, DRC
 
 Miami, Florida
 
@@ -132,6 +133,7 @@ Reading, Pennsylvania
 Mysore, India
 
 San Antonio, Texas
+Kinshasa, DRC
 
 Lubumbashi, DRC
 
