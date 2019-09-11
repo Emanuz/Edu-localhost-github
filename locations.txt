@@ -135,6 +135,9 @@ Mysore, India
 San Antonio, Texas
 Kinshasa, DRC
 
+
+Kikwit,DRC
+
 Lubumbashi, DRC
 
 Bunia, DRC
@@ -142,3 +145,4 @@ Bunia, DRC
 Beni, DRC
 
 Goma, Nord-kivu, DRC
+
